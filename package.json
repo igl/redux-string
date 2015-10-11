@@ -1,0 +1,14 @@
+{
+  "name": "redux-string",
+  "version": "1.0.0",
+  "description": "Allow dispatching of a string as action-type",
+  "main": "index.js",
+  "author": "Richard Keil",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha --ui tdd --reporter spec --recursive"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
