@@ -1,7 +1,13 @@
 {
   "name": "redux-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allow dispatching of a string as action-type",
+  "keywords": [ "redux", "string", "middleware", "redux-middleware" ],
+  "homepage": "https://github.com/igl/redux-string",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igl/redux-string.git"
+  },
   "main": "index.js",
   "author": "Richard Keil",
   "license": "MIT",
